@@ -1,4 +1,4 @@
-# mylib_C
+# my lib_C
 
 My C librarie, content:
 
