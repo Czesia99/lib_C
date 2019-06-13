@@ -31,6 +31,7 @@ SRC =		my/src/my_putchar.c 				\
 			my/src/my_str_isupper.c 			\
 			my/src/my_str_isprintable.c 		\
 			my/src/my_strcat.c 					\
+			my/src/my_strncat.c 				\
 			my/src/my_str_to_word_array.c
 
 OBJ =	${SRC:.c=.o}

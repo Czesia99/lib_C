@@ -39,6 +39,7 @@ int my_str_islower(char *str);
 int my_str_isupper(char *str);
 int my_str_isprintable(char *str);
 char *my_strcat(char *str1, char *str2);
+char *my_strncat(char *str1, char *str2, int n);
 char **my_str_to_word_array(char *str, char sep);
 
 

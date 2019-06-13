@@ -25,12 +25,14 @@ My C librarie, content:
 - my_str_islower
 - my_str_isupper
 - my_str_isprintable
+- my_strcat
+- my_strncat
 - my_str_to_word_array
 
-# 13 JUNE 2019:
+# 13 june 2019:
 
-Adding my_strcat function.
+Adding my_strcat & my_strncat functions.
 
-# 11 JUNE 2019 :
+# 11 june 2019 :
 
 First push, adding the 24 first functions.
