@@ -27,6 +27,10 @@ My C librarie, content:
 - my_str_isprintable
 - my_str_to_word_array
 
+# 13 JUNE 2019:
+
+Adding my_strcat function.
+
 # 11 JUNE 2019 :
 
 First push, adding the 24 first functions.
