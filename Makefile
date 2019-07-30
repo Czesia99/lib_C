@@ -33,6 +33,12 @@ SRC =		my/src/my_putchar.c 				\
 			my/src/my_strcat.c 					\
 			my/src/my_strncat.c 				\
 			my/src/my_str_to_word_array.c		\
+			my_printf/my_printf.c 				\
+            my_printf/display_format.c 			\
+			my_printf/display_dot_format.c		\
+            my_printf/display_dieseformat.c		\
+            my_printf/display_nbrbase.c 		\
+            my_printf/putnbr_manage.c 			\
 			tree/src/tree.c						
 
 OBJ =	${SRC:.c=.o}
