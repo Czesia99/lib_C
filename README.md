@@ -28,6 +28,25 @@ My C librarie, content:
 - my_strcat
 - my_strncat
 - my_str_to_word_array
+- my_printf
+
+# 30 Jully 2019:
+
+Adding my_printf function, can display:
+- Decimal
+- Unsigned integer
+- Character
+- string
+- octal
+- hexa
+- ptr adress
+    
+Adding some binary tree functions:
+- new_tree
+- join_tree
+- clean_tree
+- print_tree_prefix
+- count_tree_nodes
 
 # 13 june 2019:
 
